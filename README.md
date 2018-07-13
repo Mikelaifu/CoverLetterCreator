@@ -1,6 +1,6 @@
 # Cover Letter Batch Creator
 
-Anyone is annoyed that if you are job hunting , there are 7 out of 10 jobs require or optionally imply to you to have a cover letter knowing the fact that nobody will ever really read it in the initial candidate filtering process ?
+Anyone is annoyed that if you are job hunting , there are 7 out of 10 jobs require or optionally imply to you to have a cover letter knowing the fact that no HR will ever really (or carefully) read it in the initial candidate filtering process But statistically saying, candidates with a strong cover letter does get higher chance to get an interview ?
 
 And then you spent half of the application time to write your cover letter in addition to fill out those lengthy background check then you never heard anything back from the company?
 
