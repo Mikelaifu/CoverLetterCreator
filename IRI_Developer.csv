@@ -1,0 +1,19 @@
+index,tag,Input
+ApplicantAddress,<ApplicantAddress>,1300 Apple St
+ApplicantCityStateZipCode,<ApplicantCityStateZipCode>,"Chicago IL, 60615"
+TodayDate,<TodayDate>, 11/07/2018
+AddressedPerson,<AddressedPerson>,Hiring Team
+Title,<Title>,HR
+CompanyName,<CompanyName>, IRI
+CompanyAddress,<CompanyAddress>,210 Wacker st
+CompanyCityStateZipCode,<CompanyCityStateZipCode>,"Chicago IL, 60610"
+AddressedPersonFirstName,<AddressedPersonFirstName>,Hiring Team
+Position,<Position>,Developer
+CompanyName,<CompanyName>,IRI
+ProfessionalPitch,<ProfessionalPitch>," . I am a hard-working data science specialist. Seeking to use proven skills of data analytics for business insights reporting, data visualizations with web design languages, debugging, creations of interactive data-driven applications and models of deep learning."
+IndustryName,<IndustryName>, data science
+SecondParagraph,<SecondParagraph>,"Through my internship with EdgeTech Network, my API data scraping skills helped my team to compile charts for cryptocurrency trading and sentimental analysis. Additionally, from my practices in the Northwestern University Data Science Bootcamp, I also gained a solid foundation with back-end development. The experience allowed me to interact with my team to achieve full-stack web dashboards to visualize Go-game data and create a model of breast cancer machine learning predictions. In addition to those practices, I alone created a full-stack web data visualization on my own from scraping data sources to website deployment. By picking up current mass school shooting issues which have risen to become a controversial topic, I analyzed data from year 2013 to 2018 and gave 6 forms of analytical and interactive visualizations in final web dashboard."
+CompanyName,<CompanyName>,IRI
+Phone,<Phone>,"777-666-9999,"
+Email,<Email>,Vampire@gmail.com
+ApplicantName,<ApplicantName>, Mike Wu
