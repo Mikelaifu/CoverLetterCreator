@@ -8,13 +8,13 @@ This is simple program is for people who want to automate and batch creating the
 
 ![alt text](Example.png)
 
-**See "AutomationCoverLetterOperationExamples.ipynb" as an example to run code
+## See "AutomationCoverLetterOperationExamples.ipynb" as an example to run code
 
 Process:
 
 * Step 1: Please refer to format Template.docx file, user may create their own cover letter template with different framework or Variable <>. Or user may just use my template(pretty universial). Template.docx is referenceing Penn State University cover letter template.
 
-**Warning: You may run into format or error problem if user decided to create another template from scratch. but If you decide to use my cover letter template, Please only modify the varaibles (<>). 
+####  Warning: You may run into format or error problem if user decided to create another template from scratch. but If you decide to use my cover letter template, Please only modify the varaibles (<>). 
 
 * Step 2: Please refer to the format of CompanyNameSheet.csv within the CompanyResearch folder, User may do research on the companies that requires cover letter in the application process. Then users may fill up the names of the company and job titles that you want to apply for in the CompanyNameSheets.csv
 
