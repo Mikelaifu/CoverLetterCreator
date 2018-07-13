@@ -8,7 +8,7 @@ This is simple program that is for people who want to automate and batch creatin
 
 ![alt text](Example.png)
 
-## See "AutomationCoverLetterOperationExamples.ipynb" as an example to run code
+## See "AutomationCoverLetterOperationExamples.ipynb" as an example to run code and Pre-install: pip install python-docx
 
 Process:
 
